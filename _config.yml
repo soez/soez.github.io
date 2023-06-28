@@ -1,12 +1,12 @@
-title: Jekyll Material You
-markdown: kramdown
-# url: ""
+title: javierprtd Blog
+description: CVEs exploit development and more
+url: ""
 # baseurl: "/jekyll-theme-material-you"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Javier Partido Rufo
+  email: javierprtd@gmail.com
 
 plugins:
   - jemoji
