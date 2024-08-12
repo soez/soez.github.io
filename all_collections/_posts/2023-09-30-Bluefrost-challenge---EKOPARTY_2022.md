@@ -6,8 +6,6 @@ categories: ["Exploit", "Linux", "Kernel"]
 thumbnail: "assets/images/thumb_3.png"
 ---
 
-# Bluefrost challenge - EKOPARTY_2022
-
 ## Introduction
 
 I am leveraging the upcoming Ekoparty to share how I wrote an exploit for the Bluefrost challenge last edition (2022), which achieved local privilege escalation on Linux.
