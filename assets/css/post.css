@@ -130,12 +130,12 @@
 
 .article-content pre {
   background: var(--bg-dm-secondary) !important;
-  padding: 1rem 2rem;
+  padding: 1rem 1rem;
   margin-bottom: 1.75rem;
 }
 
 .article-content code {
-  padding: 3px 5px;
+  padding: 3px 3px;
   color: var(--text-dm-secondary);
   white-space: pre;
   background: var(--bg-dm-secondary) !important;

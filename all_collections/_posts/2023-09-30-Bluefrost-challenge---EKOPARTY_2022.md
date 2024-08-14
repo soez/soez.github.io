@@ -339,7 +339,5 @@ int n_w = write(pipefd[pos][1], zeroes, 0x20);
 
 ## References
 
-[https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html)
-
-[https://www.interruptlabs.co.uk/articles/pipe-buffer](https://www.interruptlabs.co.uk/articles/pipe-buffer)
-
+[https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html)  
+[https://www.interruptlabs.co.uk/articles/pipe-buffer](https://www.interruptlabs.co.uk/articles/pipe-buffer)  
